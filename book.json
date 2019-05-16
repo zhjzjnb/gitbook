@@ -5,7 +5,7 @@
     "-lunr",
     "-search",
     "search-pro",
-    "-sharing",
+    "sharing",
     "disqus",
     "github-buttons",
     "editlink",
@@ -25,6 +25,10 @@
     "search-pro": {
       "cutWordLib": "nodejieba",
       "defineWord" : ["Gitbook Use"]
+    },
+    "sharing":{
+      "google":true,
+      "facebook":true
     },
     "anchor-navigation-ex": {
       "showLevel": false
