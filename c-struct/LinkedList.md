@@ -1,15 +1,3 @@
-# 单项链表
-
-```mermaid
-graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-# 代码
-
 ```
 
 //  Copyright © 2019 zhjzjnb. All rights reserved.
