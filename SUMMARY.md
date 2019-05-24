@@ -1,8 +1,8 @@
 # Summary
 
-* [About](./README.md)
+* [关于](./README.md)
 
-## 数据结构-c语音
+## 数据结构-c
 
-* [单链表](./c-struct/LinkedList.md)
+* [1-单链表](./c-struct/LinkedList.md)
 
